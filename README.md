@@ -1,4 +1,4 @@
-Sysopctl: A Linux System Resource Management Command
+# Sysopctl: A Linux System Resource Management Command
 
 Sysopctl is a custom Linux command designed to manage system resources and tasks efficiently. It focuses on managing system services, monitoring processes, checking system health, and more. This tool is built to provide a simplified interface for commonly used system operations.
 
@@ -53,3 +53,9 @@ sysopctl logs analyze
 8. Backup System Files:
 To back up system files using rsync:
 sysopctl backup <path-to-directory>
+
+![Screenshot from 2024-10-10 16-59-06](https://github.com/user-attachments/assets/204e3040-220e-4f71-bcd8-fc8140805c3c)
+
+![Screenshot from 2024-10-11 09-50-25](https://github.com/user-attachments/assets/eee51740-5093-46ad-b2b2-673368b4caa7)
+
+![Screenshot from 2024-10-11 09-52-22](https://github.com/user-attachments/assets/dc7af612-932c-4a80-b15c-5fe41ca2b6de)
